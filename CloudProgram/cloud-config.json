@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "5765880207853885169",
+    "appName": "CarMate智能车机系统",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 0,
+    "packageType": 7,
+    "projectId": "388421841222012106",
+    "projectName": "端云项目",
+    "siteId": "CN"
+  },
+  "teamId": "2850086000390321185"
+}

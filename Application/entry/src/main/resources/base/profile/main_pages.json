@@ -1,0 +1,22 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Auth",
+    "pages/CloudDb/CloudDb",
+    "pages/CloudFunction",
+    "pages/CloudStorage",
+    "pages/CloudDb/DbInsert",
+    "pages/WelcomePage",
+    "pages/RemoteControl",
+    "pages/WeatherPage",
+    "pages/PhonePage",
+    "pages/UseLogPage",
+    "pages/ParkingAssistPage",
+    "pages/DailyWordsPage",
+    "pages/PoetryPage",
+    "pages/JokePage",
+    "pages/EnvironmentalData",
+    "pages/selectPlace",
+    "pages/route"
+  ]
+}
